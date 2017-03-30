@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409638772742",
+    "firebase_url": "https://trackbus-ed893.firebaseio.com",
+    "project_id": "trackbus-ed893",
+    "storage_bucket": "trackbus-ed893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409638772742:android:fcf01640268c50e8",
+        "android_client_info": {
+          "package_name": "com.locatebus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409638772742-t1lgn7cdsh5k34j1cnt7rrfdktg87srh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmBM8N8o3tsszGvzLJg1M5z-Z5bVcZR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
